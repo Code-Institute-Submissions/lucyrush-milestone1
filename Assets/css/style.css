@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body {
+  font-family: Lato;
+  color:#2978A0;
+}
+
+#hero-outer{
+  height: 600px;
+  width:100%;
+  background: url("Assets/images/wine14.jpg") no-repeat center center;
+
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+}
+
+footer{
+    background-color: #2978A0;
+}
