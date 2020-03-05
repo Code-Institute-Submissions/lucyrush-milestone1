@@ -1,26 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
-
 *{
   margin:0;
   padding:0;
   border:0;
 }
 
-body {
-
-  color: black;
+body{
+    font-family: 'Playfair Display', serif;
 }
 
-#hero-outer{
-  height: 600px;
-  width:100%;
-  background: url("Assets/images/wine14.jpg") no-repeat center center;
+/*----------------------------------------------nav bar*/
 
-  animation-name: hero-zoom;
-  animation-duration: 5s;
-  animation-fill-mode: forwards;
+#menu li{
+    background-color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    float: right;
+    width: 33.33%; 
+    margin: 0;
+    padding: 0;
+    padding-right: 80px;
+    list-style-type: none;
+    text-align: center;
+    overflow: hidden;
+    
 }
 
+#menu li :hover {
+    text-decoration: none;
+
+}
+
+/*----------------------------------------------home page body*/
+
+.home-img{
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+.welcome{
+    text-transform: uppercase;
+    font-family: 'News Cycle', sans-serif;
+}
+
+/*----------------------------------------------footer*/
 footer{
     background-color: #2978A0;
 }
