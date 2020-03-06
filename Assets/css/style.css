@@ -6,23 +6,29 @@
 
 body{
     font-family: 'Playfair Display', serif;
+    scroll-behavior: smooth;
 }
 
 /*----------------------------------------------nav bar*/
+
+.heading{
+    /* background-color: black; */
+    width: 100%;
+}
 
 #menu li{
     background-color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
     float: right;
-    width: 33.33%; 
-    margin: 0;
+    width: 30%;
+    margin: 30px;
     padding: 0;
-    padding-right: 80px;
+    padding-right: 0px;
     list-style-type: none;
     text-align: center;
-    overflow: hidden;
-    
+    overflow: visible;
+    white-space: nowrap;
 }
 
 #menu li :hover {
@@ -32,14 +38,24 @@ body{
 
 /*----------------------------------------------home page body*/
 
-.home-img{
-    border: 1px solid #ccc;
-    width: 100%;
+.home-text{
+    /* background-color: black; */
+    margin: 0px;
 }
 
-.welcome{
+.home-img{
+    width: 100%;
+    margin-right: 0px;
+}
+
+.home-text, .welcome{
     text-transform: uppercase;
     font-family: 'News Cycle', sans-serif;
+    text-align: center;
+}
+
+.home-text,.welcome, .text{
+    text-align: center;
 }
 
 /*----------------------------------------------footer*/
