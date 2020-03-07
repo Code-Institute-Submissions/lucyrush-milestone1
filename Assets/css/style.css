@@ -4,6 +4,9 @@
   border:0;
 }
 
+header{
+    width: 100%;
+}
 body{
     font-family: 'Playfair Display', serif;
     scroll-behavior: smooth;
@@ -15,16 +18,24 @@ body{
     /* background-color: black; */
     width: 100%;
 }
-
+.container {
+    width: 100%;
+    padding-right: 15px; 
+    padding-left: 15px; 
+    margin-right: 0px; 
+    margin-left: 0px;
+}
 #menu li{
     background-color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
     float: right;
-    width: 30%;
+    width: 33%;
     margin: 30px;
-    padding: 0;
+    padding-left: 0px;
     padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     list-style-type: none;
     text-align: center;
     overflow: visible;
@@ -50,7 +61,6 @@ body{
 
 .home-text, .welcome{
     text-transform: uppercase;
-    font-family: 'News Cycle', sans-serif;
     text-align: center;
 }
 
