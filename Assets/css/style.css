@@ -12,6 +12,10 @@ body{
     scroll-behavior: smooth;
 }
 
+.row{
+    width: 100%;
+}
+
 /*----------------------------------------------nav bar*/
 
 .heading{
@@ -25,13 +29,17 @@ body{
     margin-right: 0px; 
     margin-left: 0px;
 }
+nav #menu{
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    padding-right: 0px;
+}
+
 #menu li{
     background-color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
-    float: right;
-    width: 33%;
-    margin: 30px;
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 0px;
@@ -44,6 +52,7 @@ body{
 
 #menu li :hover {
     text-decoration: none;
+    color: bisque;
 
 }
 
