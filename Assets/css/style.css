@@ -7,6 +7,7 @@
 body{
     font-family: 'Playfair Display', serif;
     scroll-behavior: smooth;
+
 }
 
 /*----------------------------------------------nav bar*/
@@ -21,14 +22,16 @@ body{
 } */
 .navigation{
     text-align: center;
+    text-decoration: none;
 }
 #logo{
     margin-left: 30px;
     letter-spacing: 3px;
     width:100%;
+    color: #2B4199;
 }
 
-#logo a :hover{
+.navigation :hover{
     text-decoration: none;
     color: #FFD700;
 }
@@ -37,6 +40,7 @@ body{
     text-align: center;
     margin-left: 30px;
     width:100%;
+    color: #2B4199;
 }
 
 nav #menu{
@@ -44,14 +48,16 @@ nav #menu{
     height: 100%;
     padding-top: 10px;
     padding-right: 0px;
+    background-color: #2B4199;
 }
 
 #menu li{
-    background-color: #ffffff;
+    background-color: #2B4199;
     text-decoration: none;
     text-transform: uppercase;
     padding-left: 0px;
     width: 33.33%;
+    color: #2B4199;
     padding-right: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -87,6 +93,7 @@ nav #menu{
 .home-text, .welcome{
     text-transform: uppercase;
     text-align: center;
+    color: #2B4199;
 }
 
 .home-text,.welcome, .home-desc{
