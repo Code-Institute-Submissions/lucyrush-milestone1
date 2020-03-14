@@ -17,22 +17,20 @@ body{
     background-color: white;
 }
 
- .navigation{
-    text-align: center;
-    text-decoration: none;
-} 
-
 #logo{
     letter-spacing: 3px;
     width:100%;
     color: #2B4199;
 } 
 
-.navigation :hover{
-    text-decoration: none;
+.heading a:hover{
+    /* text-decoration: none; */
     color: #FFD700;
 }
-
+.navbar-nav, .navbar-brands{
+    width: 100%;
+    text-align: center;
+}
  .heading, #slogan{
     /* text-align: center; */
     width:100%;
