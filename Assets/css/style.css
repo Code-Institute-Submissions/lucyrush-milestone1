@@ -104,6 +104,8 @@ body{
   position: absolute;
 }
 
+
+
 /*----------------------------------------------end home page body*/
 
 /*----------------------------------------------start what we do page body*/
@@ -242,4 +244,14 @@ body{
   margin:1%;
   padding:5%;
   color:#FFD700;
+}
+
+.home-land{
+    height: 30vh;
+    width: 100%;
+    background-image: url("../images/wine-bar-page-main-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
 }
