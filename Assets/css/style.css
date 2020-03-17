@@ -71,11 +71,7 @@ body{
 /*----------------------------------------------end of nav bar list items*/
 
 
-/*----------------------------------------------home page body*/
-.home-text{
-    /* background-color: black; */
-    margin: 0px;
-}
+/*---------------------------------------------- start home page body*/
 
 .landing {
     height: 100vh;
@@ -86,9 +82,7 @@ body{
     background-position: center;
     position: relative;
 }
-/* #cover-text, #cover-text p{
-  color: #ffffff;
-} */
+
 #welcome-land{
     color: #ffffff;
     text-align: center;
@@ -104,36 +98,33 @@ body{
 #cover-land{
   width:33.33%;
   height:100%;
-
   padding-top:10%;
   padding-left:10px;
-
-  background-color: rgba(175, 48, 41, 0.37);
-
+  background-color:#FF8E72;
   position: absolute;
 }
 
-.home-img{
+/*----------------------------------------------end home page body*/
+
+/*----------------------------------------------start what we do page body*/
+
+.do-landing-info{
+    background-color: rgba(175, 48, 41, 0.37);
+
+}
+
+.do-landing{
+    height: 100vh;
     width: 100%;
-    margin-right: 0px;
-    /* height: 600px; */
-    padding-left: 30px;
-    padding-top: 10px;
-    padding-right: 30px;
-    padding-bottom: 30px;
+    background-image: url("../images/do_wine.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
 }
 
-.home-text, .welcome{
-    text-transform: uppercase;
-    text-align: center;
-    color: #2B4199;
-    position:absolute;
-}
 
-.home-text,.welcome, .home-desc{
-    text-align: center;
-}
-
+/*----------------------------------------------start what we do page body*/
 #photo{
   clear:both;
   line-height: 0;
