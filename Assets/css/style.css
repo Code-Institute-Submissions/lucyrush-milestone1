@@ -124,30 +124,20 @@ body{
 }
 
 
-/*----------------------------------------------start what we do page body*/
-#photo{
-  clear:both;
-  line-height: 0;
-  column-count:3;
-  column-gap: 0px;
-}
+/*----------------------------------------------end what we do page body*/
 
-#photo img{
-  width: 100%;
-  height: 100%;
-  padding-left: 30px;
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-}
+/*----------------------------------------------start our favourites page body*/
 
-/*----------------------------------------------start gallery page body*/
-
-.container{
+#content-favourite-intro{
+    background-color: pink;
+    position: relative;
+    text-align: center;
     width: 100%;
+    height: 400%;
+
 }
 .img-responsive{
-    height: 95%;
+    height: 85%;
 }
 .hovereffect {
   width: 100%;
@@ -163,7 +153,7 @@ body{
   position: absolute;
   overflow: hidden;
   width: 80%;
-  height: 80%;
+  height: 65%;
   left: 10%;
   top: 10%;
   border-bottom: 1px solid #FFF;
