@@ -13,22 +13,25 @@ body{
     padding-right: 0px;
     text-align: center;
     z-index: 1;
-    color: #2B4199;
+    color: black;
+    font-weight: bold;
     background-color: white;
 }
 
 #logo{
     letter-spacing: 3px;
     width:100%;
-    color: #2B4199;
+    color: black;
     text-align: center;
     font-size: 150%;
+    font-weight: bold;
 } 
 #slogan{
     text-align: center;
     width:100%;
-    color: #2B4199;
+    color: black;
     font-size: 100%;
+    font-weight: bold;
 }
 .heading a:hover{
     text-decoration: none;
@@ -59,7 +62,7 @@ body{
 #menu li a{
     text-decoration: none;
     text-transform: uppercase;
-    color: #2B4199;
+    color: black;
     text-align: center;
     font-size: 80%;
 }
@@ -314,16 +317,19 @@ textarea {
   font-size:180%;
   margin:1%; 
  padding:2%;
-  color: #fff;
+  color: black;
 }
 .foot-land{
-    height: 30vh;
     width: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     position: relative;
 }
 
+.footer-text{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1em;
+    padding-top: 1%
+}
 
 
