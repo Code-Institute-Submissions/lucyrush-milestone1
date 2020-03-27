@@ -68,10 +68,6 @@ body{
     color: #FFD700;
 
 }
-
-.word-bottom-land{
-    color: #fff;
-}
 /*----------------------------------------------end of nav bar list items*/
 
 
@@ -320,7 +316,6 @@ textarea {
  padding:2%;
   color: #fff;
 }
-
 .foot-land{
     height: 30vh;
     width: 100%;
@@ -328,7 +323,6 @@ textarea {
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
-    background-image: url("../images/wine-bar-page-main-image.jpg");
 }
 
 
