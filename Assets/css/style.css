@@ -89,12 +89,10 @@ body{
 #welcome-land{
     color: #ffffff;
     text-align: center;
-    font-size: 180%;
-    border-bottom: 1px solid #FFF;
-    border-bottom-width: 70%;
+    font-size: 400%;
 }
 #welcome-desc{
-    color: #ffffff;
+    color: #fff;
     text-align: justify;
     text-align: center;
     font-size: 100%;
@@ -232,7 +230,11 @@ body{
 /*----------------------------------------------end page body*/
 
 /*----------------------------------------------start contact us page body*/
-
+#contact-land{
+    color: #fff;
+    font-size: 180%;
+    text-align: center;
+}
 #form-intro{
     background-color: #D96149;
 }
