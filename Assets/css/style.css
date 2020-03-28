@@ -93,9 +93,8 @@ body{
 }
 #welcome-desc{
     color: #fff;
-    text-align: justify;
     text-align: center;
-    font-size: 100%;
+    font-size: 110%;
 }
 .cover-land{
   width:100%;
