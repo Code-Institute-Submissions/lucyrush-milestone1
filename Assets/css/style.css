@@ -62,6 +62,7 @@ body{
     text-transform: uppercase;
     color: black;
     text-align: center;
+    font-weight: bold;
     font-size: 80%;
 }
 #menu li a:hover  {
