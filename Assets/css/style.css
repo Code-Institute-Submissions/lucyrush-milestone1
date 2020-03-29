@@ -90,16 +90,17 @@ body{
     color: #ffffff;
     text-align: center;
     font-size: 400%;
+    text-transform: uppercase;
 }
 #welcome-desc{
     color: #fff;
     text-align: center;
-    font-size: 110%;
+    font-size: 120%;
 }
 .cover-land{
   width:100%;
   height: 100vh;
-  background-color:#A8D087;
+  background-color:#5F0B2A;
   position: relative;
 }
 
@@ -130,7 +131,7 @@ body{
 /*----------------------------------------------start our favourites page body*/
 
 #content-favourite-intro{
-    background-color: #C2CECB;
+    background-color: #00324B;
     position: relative;
     text-align: center;
     width: 100%;
@@ -138,7 +139,7 @@ body{
 
 }
 #content-gallery{
-    background-color: #C2CECB;
+    background-color: #00324B;
     padding-left: 1%;
     padding-right: 1%;
 }
@@ -231,8 +232,9 @@ body{
 /*----------------------------------------------start contact us page body*/
 #contact-land{
     color: #fff;
-    font-size: 180%;
+    font-size: 190%;
     text-align: center;
+    padding: 1%;
 }
 #form-intro{
     background-color: #D96149;
