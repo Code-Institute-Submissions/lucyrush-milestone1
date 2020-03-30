@@ -4,26 +4,24 @@ body{
     padding: 0%;
 
 }
-
 /*----------------------------------------------start of logo and slogan*/
  .heading{
     width: 100%;
     padding-top: 10px;
-    padding-left: 0px;
-    padding-right: 0px;
     text-align: center;
     z-index: 1;
     background-color: white;
 }
 
 #logo{
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     width:100%;
     color: black;
     text-align: center;
     font-size: 150%;
     font-weight: bold;
 } 
+
 #slogan{
     text-align: center;
     width:100%;
@@ -31,10 +29,11 @@ body{
     font-size: 100%;
     font-weight: bold;
 }
+
 .heading a:hover{
     text-decoration: none;
-    color: #FFD700;
 }
+
 .navbar-nav, .navbar-brands{
     width: 100%;
     text-align: center;
@@ -65,10 +64,10 @@ body{
     font-weight: bold;
     font-size: 80%;
 }
+
 #menu li a:hover  {
     text-decoration: none;
     color: #086B6C;
-
 }
 /*----------------------------------------------end of nav bar list items*/
 
@@ -91,19 +90,19 @@ body{
     font-size: 400%;
     text-transform: uppercase;
 }
+
 #welcome-desc{
     color: #fff;
     text-align: center;
     font-size: 120%;
 }
+
 .cover-land{
   width:100%;
   height: 100vh;
   background-color:#CDBB40;
   position: relative;
 }
-
-
 
 /*----------------------------------------------end home page body*/
 
@@ -124,7 +123,6 @@ body{
     position: relative;
 }
 
-
 /*----------------------------------------------end what we do page body*/
 
 /*----------------------------------------------start our favourites page body*/
@@ -137,14 +135,17 @@ body{
     height: 400%;
 
 }
+
 #content-gallery{
     background-color: #CDBB40;
     padding-left: 1%;
     padding-right: 1%;
 }
+
 .img-responsive{
     height: 85%;
 }
+
 .hovereffect {
   width: 100%;
   height: 100%;
@@ -226,7 +227,7 @@ body{
   transform: translate3d(0,0,0);
 }
 
-/*----------------------------------------------end page body*/
+/*----------------------------------------------end our favourites page body*/
 
 /*----------------------------------------------start contact us page body*/
 #contact-land{
@@ -235,6 +236,7 @@ body{
     text-align: center;
     padding: 1%;
 }
+
 #form-intro{
     background-color: #CDBB40;
 }
@@ -245,6 +247,7 @@ body{
     text-align: left;
     font-size: 130%;
 }
+
 #form-page{
     height: 100vh;
     width: 100%;
@@ -253,15 +256,16 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
-    
 }
 
- .contact{
+.contact{
     padding-top: 1.8%; 
 }
+
 textarea {
 	resize: none;
 }
+
 .form-label {
 	font-size: 100%;
 	color: #ffffff;
@@ -269,6 +273,7 @@ textarea {
 	display: block;
 	opacity: 1;
 }
+
 .form-control {
 	border-radius: 2;
 	border-color: #ffffff;
@@ -276,6 +281,7 @@ textarea {
    	border-style: none none none none;
    	box-shadow: none;
 }
+
 .btn-start-order {
 	background: 0 0 #fff;
     border: 1px solid #fff;
@@ -286,16 +292,13 @@ textarea {
     margin: 2% 0;
     padding: 1%;
 }
+
 .btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
 	border-color: #CDBB40;
 	color: #CDBB40;
 }
 
 /*----------------------------------------------end contact us page body*/
-
-
-
-
 
 
 /*----------------------------------------------footer*/
@@ -307,7 +310,6 @@ textarea {
 
 .social-networks li{
   display:inline;
-
 }
 
 .social-networks i{
@@ -316,6 +318,7 @@ textarea {
  padding:2%;
   color:#CDBB40;
 }
+
 .foot-land{
     width: 100%;
     position: relative;
