@@ -62,3 +62,69 @@ These are the wireframes, which include both the desktop and mobile view for eac
   2. [What We Do Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/What%20We%20Do%20page%20.png)
   3. [Our Favourites Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/Our%20Fvourites%20Page.png)
   4. [Contact Us Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/Contact%20Us%20.png)
+  
+These pages are not very detailed but give a rough overview of the layout used to create the pages. There is definitely room for improvement. 
+  
+## Surface
+
+The colour scheme for this project was quite minimalistic, involving mostly a mustard yellow, white and black. I thought it would be best to keep the colour scheme simple because the images used in the site, especially the ‘Our Favourites’, are colourful already. 
+
+The colours used were:
+
+![GitHub Logo](Assets/images/colour.png)
+
+The site makes use of one key font :
+
+- Playfair Display
+
+## Features
+
+### Existing Features
+
+#### Heading
+
+- The heading is identical across all pages to maintain easily identifiable links and navigation throughout the site. 
+- The heading consists of a center-aligned logo and slogan. The logo (favourite grapes) is text, the letters are spaced apart and the text is in lower case. The slogan is smaller than the logo and does not have spacing between the letters.
+- The menu/navigation bar is horizontally aligned and over the entire width of the page on large and medium screens. The navigation is stacked vertically on small screens. 
+
+#### Home Page
+
+- This is the landing page when users arrive when they follow the link. The user sees an attractive, almost enticing picture of a woman drinking a rich red wine. Users are presented with a nav bar, a large Welcome heading, a brief description about the bar as well as a short summary on what can be done at the bar. 
+- The page is simple and was split into two sections in large and medium screens. On smaller screens the page stacks horizontally, with the text before the image.
+
+#### What We Do Page
+
+- This page gives the user a description of what is done in the bar. It allows the user to get an idea of what type of wines are served at the bar. 
+- The page is split into two evenly sized sections on large screens. On smaller screens the image will be displayed first. Users can scroll down to see the text. 
+
+#### Our Favourites Page 
+
+- This page definitely has the most content for the user to read. It is designed for site owners to regularly make changes to images and wine listings. It allows the user to see which wines will be available to taste and purchase at the bar. 
+- When the user scrolls over the images, an interesting hover effect will be displayed. The user will see the vintage and name of wine, then underneath the name there will be the name of the wine farm the wine originated from. The name of each of the wine farms are links to their respective sites. This will allow the user to visit the sites should they wish to purchase wine from the source. I feel this is inline with international and cosmopolitan atmospheres created by the wine tastings. Users will be able to get a sense that the wine procured for the bar is of fine quality and thoughtfully sourced. 
+
+#### Contact Us
+
+- The contact us page is important because it is where the user is directed to make a reservation for a wine tasting. 
+- The heading of the form on the page prompts the user to get in touch to make a reservation. The form’s background image is on wine being poured, this looks light and appealing to the user. 
+
+#### Footer
+
+- The footer is identical throughout the site. 
+- The footer includes details on when the bar is open, which days the bar is open and that the user will need to get in touch to reserve a wine tasting. 
+- The button is a link to the ‘Contact Us’ page which allows the user to easily navigate themselves to where they need to get in touch. 
+The footer also includes links to the bars social media, as well as a link to the bars Spotify. The playlist was mentioned in the ‘What We Do’ page. 
+
+### Features Left To Implement
+
+- Wishlist page where users can add wines they would like to taste at the bar. This could be included in the ‘Our Favourites’ page. 
+- Upload section where users can upload images and reviews of their wine tasting experiences. 
+- Online store page for users to buy wines directly from Favourite Grapes after tasting them in the bar. 
+- Overall, I would recommend revising the spacing and padding of the site's text. The text could be better centered and spread on larger screens to improve readability for the user. 
+
+## Technologies Used 
+
+- HTML
+- CSS
+- Boostrap
+
+
