@@ -58,4 +58,7 @@ Each of the pages are simply styled with images taking up most of the real estat
 
 These are the wireframes, which include both the desktop and mobile view for each section:
 
-  1.[GitHub](http://github.com)
+  1. [Home Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/Home%20Page.png)
+  2. [What We Do Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/What%20We%20Do%20page%20.png)
+  3. [Our Favourites Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/Our%20Fvourites%20Page.png)
+  4. [Contact Us Page](https://github.com/lucyrush/milestone1/blob/master/wireframes/Contact%20Us%20.png)
