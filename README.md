@@ -135,3 +135,33 @@ The footer also includes links to the bars social media, as well as a link to th
 - [CSS Validator](https://validator.w3.org/)
 - Testing with Chrome DevTools
 - Learned from [W3Schools](https://www.w3schools.com/) and  [Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=qmPmwdshCMw&t=21s)
+
+## Testing 
+
+Manual tests were conducted throughout the creation of this site.
+
+### Validators
+
+- HTML
+  - HTML Validator: Document checking on [FreeFormatter.com](https://www.freeformatter.com/html-validator.html). Each page validated separately. Multiple issues detected and corrected. Changes made over 2 commits.
+
+- CSS
+  - W3C CSS Validator: The [W3C Validator](https://jigsaw.w3.org/css-validator/validator) displayed 2 errors with the .form-control unit. This issue was resolved and no errors followed on from this.
+  
+- Other Testing
+  - Testing during section construction was done primarily with Chrome DevTools, making sure each element works correctly, including responsiveness across devices. 
+  -After deploying the project I tested each of the links included in the site, putting emphasis on the nav bar and the links to the wine farms in the ‘Our Favourites’ page. 
+  -I tested the live link on an iPhone 5s and Huawei P30 to test smaller screens sizes. Each of the pages worked well but there is room for improvement when it comes to responsiveness of the site. 
+
+## Deployment 
+
+Deployment To GitHub Pages: 
+
+- I logged into [GitHub](https://github.com/)
+- In my account on the GitHub website, I selected Repositories
+- I selected the lucyrush / milestone1 from the GitHub Dashboard.
+- I navigated to Settings and to the GitHub Pages section.
+- From the Source section, I clicked on the drop-down menu and selected Master Branch.
+- Once Master Branch is selected, the page has been automatically refreshed, with a detailed ribbon display GitHub Source Saved Pages indicating the successful implementation.
+
+The live link can be found here - https://lucyrush.github.io/milestone1/
