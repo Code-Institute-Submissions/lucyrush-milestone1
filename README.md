@@ -165,3 +165,26 @@ Deployment To GitHub Pages:
 - Once Master Branch is selected, the page has been automatically refreshed, with a detailed ribbon display GitHub Source Saved Pages indicating the successful implementation.
 
 The live link can be found here - https://lucyrush.github.io/milestone1/
+
+## Credits
+
+### Media
+
+- All images were sourced from other sites, primarily; 
+   - [Pinterest](https://www.pinterest.ie/pin/554224297895774020/)
+   - [Mash Design](https://www.mashdesign.com.au/)
+   - [Barringwood](http://www.soniarentsch.com/all/Barringwood)
+   - [Mindsparkle Mag](https://mindsparklemag.com/design/dubicz-winery-label-design/)
+- The font used was taken from [Google Fonts](https://fonts.google.com/specimen/Playfair+Display)
+- The icons used for the footer were taken from [Font Awesome](https://fontawesome.com/icons?d=gallery)
+- The hover effect used on the ‘OurFavourites’ page was inspired and taken from [Image Hover Effects](https://miketricking.github.io/bootstrap-image-hover/), the effect was modified to suit the page colour scheme and image sizes. I used effect 13. 
+- The written content of each of the pages was inspired by other wine bar sites, like [Publik](https://publik.co.za/) and [Loose Canon.](https://www.loosecanon.ie/) 
+- The links to the wineries were sourced by me using Google search, each link links to the wineries home page. 
+
+## Acknwledgements
+
+- To create this website, I relied heavily on the material covered in the Full Stack Development course by Code Institute. I also used plenty of W3Schools Online Web Tutorials. I learnt the basics of Bootstrap in the course material but did have to refer to additional YouTube videos to get a better understanding. 
+- I initially needed a lot of guidance from my colleagues to get started, and from then was happy to work on my own but needed a bit more guidance when it came to writing the README. 
+
+
+	:smiley:
