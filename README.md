@@ -127,4 +127,11 @@ The footer also includes links to the bars social media, as well as a link to th
 - CSS
 - Boostrap
 
+### Also made use of:
 
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [HTML Validator](https://www.freeformatter.com/html-validator.html)
+- [CSS Validator](https://validator.w3.org/)
+- Testing with Chrome DevTools
+- Learned from [W3Schools](https://www.w3schools.com/) and  [Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=qmPmwdshCMw&t=21s)
